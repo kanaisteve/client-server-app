@@ -1,4 +1,4 @@
-# Client-Server App
+# Simple Client-Server App
 
 Client Server Application a Java Networking Program that will perform the following tasks: <br>
 i. use an ordered collection to store employees of five.  <br>
