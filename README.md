@@ -6,4 +6,5 @@ ii. prompt user for a man number and request the server to retrieve the full rec
 
 <p float="left">
   <img src="start_server.PNG" alt="Start Server Screenshot" width="400" />
+  <img src="start_client.PNG" alt="Start Client Screenshot" width="400" />
 </p>
